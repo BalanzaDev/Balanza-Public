@@ -1,0 +1,1 @@
+# Global-notice-when-boss-respawn
